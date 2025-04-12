@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashantrajak1" alt="prashantrajak1" /></a> </p>
 
-- 🔭 I’m currently working on [Botify(under process)](https://drive.google.com/file/d/1Onn9MjN3vawb3RRW34EhIHFpbNK2FybN/view?usp=sharing)
-
-- 👯 I have done the project named [Job planner for students](https://docs.google.com/presentation/d/14RbVHa22hxUXEgjRLpk5hfr36A5SmSEw/edit?usp=sharing&ouid=102992901131297049823&rtpof=true&sd=true)
+- 🔭 I have worked on project
+- 1. "Hybrid Deep Learning Model for Stock Prediction"
+  2. "AI-Driven Real Time Interview Simulator" 
 
 - 📫 How to reach me **prashantrajak1111@gmail.com**
 
