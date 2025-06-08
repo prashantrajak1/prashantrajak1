@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashantrajak1" alt="prashantrajak1" /></a> </p>
 
-- 🔭 I have worked on project
+- 🔭 I have worked on projects:
 - 1. "Hybrid Deep Learning Model for Stock Prediction"
-  2. "AI-Driven Real Time Interview Simulator" 
+  2. "AI-DRIVEN VIDEO RESUME PARSING FOR ENHANCED COMPETENCY MAPPING AND RECRUITMENT INTELLIGENCE" 
 
 - 📫 How to reach me **prashantrajak1111@gmail.com**
 
