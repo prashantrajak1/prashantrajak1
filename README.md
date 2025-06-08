@@ -14,8 +14,8 @@
 
 - 📫 How to reach me **prashantrajak1111@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<h2 align="left">Linkedin:https://www.linkedin.com/in/prashant-rajak-637639243/ </h2>
+<h2 align="left">Connect with me:</h2>
+<h3 align="left">Linkedin:https://www.linkedin.com/in/prashant-rajak-637639243/ </h3>
 <p align="left">
 </p>
 
