@@ -1,4 +1,6 @@
 
+![Linkedin Cover Pic](https://github.com/user-attachments/assets/cfc46848-954a-41b1-a2a5-0ef019108dc0)
+
 <h1 align="center">Hi 👋, I'm Prashant Rajak</h1>
 <h3 align="center">A passionate software developer.</h3>
 
