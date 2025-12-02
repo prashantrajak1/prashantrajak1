@@ -1,4 +1,4 @@
-![logo](https://github.com/prashantrajak1/prashantrajak1/blob/main/image.png)
+
 <h1 align="center">Hi 👋, I'm Prashant Rajak</h1>
 <h3 align="center">A passionate software developer.</h3>
 
